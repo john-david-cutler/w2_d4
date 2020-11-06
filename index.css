@@ -1,0 +1,11 @@
+#FormContainer {
+    width: 300px;
+    padding:10px;
+    border:1px solid black;
+    text-align: center;
+    margin:100px auto;
+}
+
+.InputLabel {
+    padding:10px 0 10px 0;
+}
